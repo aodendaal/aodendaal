@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Hobby Game Dev**
 
-- 📫 How to reach me **andre@omgsoftware.co.za**
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/fengol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fengol" height="30" width="40" /></a>
