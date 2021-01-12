@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Microsoft South Africa](https://aka.ms/appfactory)
 
-- 🌱 I’m currently learning **Azure Fundamentals**
+- 🌱 I’m currently learning **Roguelike dev in JavaScript**
 
 - 📝 I rarely write articles on [http://omgsoftware.co.za](http://omgsoftware.co.za)
 
