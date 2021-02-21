@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aodendaal" alt="aodendaal" /> </p>
 
-- 🔭 I’m currently working at [Microsoft South Africa](https://aka.ms/appfactory)
+- 🔭 I’m currently working at [Equal Experts](https://equalexperts.com)
 
 - 🌱 I’m currently learning **Roguelike dev in JavaScript**
 
