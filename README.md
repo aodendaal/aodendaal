@@ -16,4 +16,4 @@
 <a href="https://twitter.com/fengol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fengol" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aodendaal&show_icons=true" alt="aodendaal" /></p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aodendaal&theme=default)
