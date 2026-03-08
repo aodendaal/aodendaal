@@ -7,4 +7,4 @@
 
 - 💬 Ask me about **Scouting South Africa**
 
-![](https://github-readme-stats.vercel.app/api?username=aodendaal&show_icons=true)
+![](https://github-readme-stats-fast.vercel.app/api?username=aodendaal&show_icons=true)
